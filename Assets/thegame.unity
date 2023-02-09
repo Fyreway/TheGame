@@ -3686,7 +3686,7 @@ MonoBehaviour:
   - {fileID: -2147290398, guid: 31b771ceb2b3a1841956c5fa80950425, type: 3}
   - {fileID: 1109975406, guid: 31b771ceb2b3a1841956c5fa80950425, type: 3}
   flip: 1
-  animspeed: 20
+  animspeed: 50
   spriteRenderer: {fileID: 352727098}
   anim_frame: 0
   spritelength: 0
